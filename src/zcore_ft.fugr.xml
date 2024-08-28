@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Extended Table Maintenance (Generated)</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZCORE_FTF00</SOBJ_NAME>
+    <SOBJ_NAME>LZCORE_FTI00</SOBJ_NAME>
+    <SOBJ_NAME>LZCORE_FTT00</SOBJ_NAME>
+    <SOBJ_NAME>LZCORE_FTTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZCORE_FT</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>TABLEFRAME_ZCORE_FT</FUNCNAME>
+     <SHORT_TEXT>Extended Table Maintenance: Upper Level</SHORT_TEXT>
+    </item>
+    <item>
+     <FUNCNAME>TABLEPROC_ZCORE_FT</FUNCNAME>
+     <SHORT_TEXT>Lower-level extended table maintenance</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
